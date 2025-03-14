@@ -1,13 +1,9 @@
-<h1>💫 Hi, I'm John</h1>
-
 ## 🚀 About Me:
 - 🏢 Software Engineer | Azure Developer
 - 🎓 Studying CS @ King's College London
 - 🌱 Learning data analysis, regression models, and blockchain
 - 💻 Experienced in front-end & back-end development, cloud solutions, and data analysis
 - 📫 Reach me at [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)
-
----
 
 ## 💻 Tech Stack:
 <p>
@@ -29,9 +25,7 @@
   <img src="https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
 
----
-
-## 📌 Pinned Projects:
+## 📌 Cool Projects:
 - **[Coding Tutors Dashboard](https://jpaul.pythonanywhere.com/):** Multi-role tutoring management system (Django, Python)
 - **[COVID Stats Dashboard](https://github.com/jd-paul/covid-dashboard):** Java-based data visualization tool for COVID-19 statistics
 - **[Job Listing App](https://github.com/jd-paul/job-listing):** A job board built with Supabase and Next.js
