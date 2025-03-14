@@ -10,7 +10,7 @@
 ---
 
 ## 💻 Tech Stack:
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -31,9 +31,3 @@
 - **[Coding Tutors Dashboard](https://jpaul.pythonanywhere.com/):** Multi-role tutoring management system (Django, Python)
 - **[COVID Stats Dashboard](https://github.com/jd-paul/covid-dashboard):** Java-based data visualization tool for COVID-19 statistics
 - **[Job Listing App](https://github.com/jd-paul/job-listing):** A job board built with Supabase and Next.js
-
----
-
-## 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-san-diego/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://jd-paul.github.io/)
