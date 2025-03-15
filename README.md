@@ -27,5 +27,5 @@
 
 ## 📌 Cool Projects:
 - **[Coding Tutors Dashboard](https://jpaul.pythonanywhere.com/):** Multi-role tutoring management system (Django, Python)
-- **[COVID Stats Dashboard](https://github.com/jd-paul/covid-dashboard):** Java-based data visualization tool for COVID-19 statistics
-- **[Job Listing App](https://github.com/jd-paul/job-listing):** A job board built with Supabase and Next.js
+- **[COVID Stats Dashboard](https://github.com/jd-paul/covid-dashboard-java):** Java-based data visualization tool for COVID-19 statistics
+- **[Job Listing App](https://github.com/angelmohamed/teamleopard):** A job board built with Supabase and Next.js
