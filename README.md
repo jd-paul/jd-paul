@@ -1,7 +1,7 @@
 ## 🚀 About Me:
 🏢 Software Engineer | Azure Developer  
 🎓 Studying CS @ King's College London  
-🌱 Learning data analysis, regression models, and blockchain  
+🌱 Learning data analysis, regression models, machine learning, and blockchain  
 💻 Experienced in front-end & back-end development, cloud solutions, and data analysis  
 📫 Reach me at [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)
 
