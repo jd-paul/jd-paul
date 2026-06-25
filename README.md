@@ -5,7 +5,7 @@
 💻 Experienced in front-end & back-end development, data analysis, machine learning, and RAG systems
 📫 Key links: [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)
 
-## 💻 Tech Stack:
+## Tech Stack:
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
