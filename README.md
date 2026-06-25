@@ -1,9 +1,9 @@
-## 🚀 About Me:
-🏢 Software Engineer | Azure Developer  
+## About Me:
+🏢 Software Engineer  
 🎓 Studying CS @ King's College London  
-🌱 Learning data analysis, regression models, machine learning, and blockchain  
-💻 Experienced in front-end & back-end development, cloud solutions, and data analysis  
-📫 Reach me at [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)
+🌱 Learning software engineering and machine learning
+💻 Experienced in front-end & back-end development, data analysis, machine learning, and RAG systems
+📫 Key links: [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)
 
 ## 💻 Tech Stack:
 <p>
@@ -24,8 +24,3 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
 </p>
-
-## 📌 Cool Projects:
-- **[Coding Tutors Dashboard](https://jpaul.pythonanywhere.com/):** Multi-role tutoring management system (Django, Python). Deployed with 100% test coverage (Coverage.py).
-- **[COVID Stats Dashboard](https://github.com/jd-paul/covid-dashboard-java):** Java-based data visualization tool for COVID-19 statistics.
-- **[Job Listing App](https://github.com/angelmohamed/teamleopard):** A job board built with Supabase and Next.js. Includes tailored job results and personalization.
