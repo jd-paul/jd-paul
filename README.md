@@ -1,9 +1,10 @@
 ## About Me:
-🏢 Software Engineer  
-🎓 Studying CS @ King's College London  
-🌱 Learning software engineering and machine learning  
-💻 Experienced in front-end & back-end development, data analysis, machine learning, and RAG systems  
-📫 Key links: [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)
+Software Engineer  
+CS @ King's College London  
+SWE / AI / ML
+
+Key links: [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)
+Working environment: Linux / CachyOS / HyDE / Hyprland
 
 ## Tech Stack:
 <p>
