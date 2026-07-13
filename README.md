@@ -3,7 +3,7 @@ Software Engineer
 CS @ King's College London  
 SWE / AI / ML
 
-Key links: [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)
+Key links: [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)  
 Working environment: Linux / CachyOS / HyDE / Hyprland
 
 ## Tech Stack:
