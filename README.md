@@ -1,10 +1,9 @@
 ## About Me:
 Software Engineer  
-CS @ King's College London  
-SWE / AI / ML
+Ex-PepsiCo, 2x hackathon winner | SWE | Python, TypeScript, PostgreSQL, AWS  
 
 Key links: [LinkedIn](https://linkedin.com/in/paul-san-diego/) | [Portfolio](https://jd-paul.github.io/)  
-Working environment: Linux / CachyOS / HyDE / Hyprland
+Working environment: Linux / CachyOS / Plasma KDE
 
 ## Tech Stack:
 <p>
